@@ -1,36 +1,39 @@
+# WordGame
+
+## Welcome to -- WordGame!
+
+是的，就像你看到的那样，"WordGame"是一个“文字游戏”。
+
+[![开始游戏！](https://img.shields.io/badge/START-The%20Game!-red?style=for-the-badge)](https://yubac.github.io/WordGame/)
+
+## 游戏教程 
+
+### 认识地图
+
+<p id="map"><span style="color:red;">人</span><span style="color:green;">草</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><br><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><br><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><br><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><br><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><br><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:orange;">桥</span><span style="color:orange;">桥</span><span style="color:blue;">水</span><span style="color:blue;">水</span><br><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:orange;">桥</span><span style="color:orange;">桥</span><span style="color:blue;">水</span><span style="color:blue;">水</span><br><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:orange;">桥</span><span style="color:orange;">桥</span><span style="color:blue;">水</span><span style="color:blue;">水</span><br><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><br><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><br><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><br><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><br></p>
+
+这是初始地图。
+
+这个红色的<span style="color:red;">人</span>是您。
+
+### 移动
+
+<style></style>
+
+<p id="map"><span style="color:red;">人</span><span style="color:green;">草</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><br><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><br><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><br><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><br><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><br><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:orange;">桥</span><span style="color:orange;">桥</span><span style="color:blue;">水</span><span style="color:blue;">水</span><br><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:orange;">桥</span><span style="color:orange;">桥</span><span style="color:blue;">水</span><span style="color:blue;">水</span><br><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:blue;">水</span><span style="color:orange;">桥</span><span style="color:orange;">桥</span><span style="color:blue;">水</span><span style="color:blue;">水</span><br><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><br><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><br><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><br><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><span style="color:green;">草</span><br></p>
+
 <style>
-    body,
-    div {
-        margin: 0;
-        padding: 0;
-    }
-    
-    #box>a {
-        display: none;
-    }
-    
-    #box>a:first-of-type {
-        display: block;
-    }
-    
-    #box>a:target {
-        display: none;
-    }
-    
-    #box>a:target+a {
-        display: block;
+    .button{
+        width:50px;
+        height:50px;
+        border:1px solid;
+        background-color:#e9e9ed;
+        text-align:center;
+        border-color:#9a9aa7;
+        border-radius:5px;
+        line-height:50px;
     }
 </style>
 
-<div id="box">
+<div class="button">↓</div>
 
-<a href="#a" id="a">
-    
-<p>我是P1的内容</p>
-        </a>
-
-<a href="#b" id="b">
-    
-<p>我是P2的内容</p>
-        </a>
-</div>
